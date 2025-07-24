@@ -26,7 +26,7 @@ To do this, follow the physical configuration steps in the official manual.
 Once the printer is configured in Virtual COM mode, you need to install the appropriate drivers.  
 For example, for model `915DX011700300`  
 (This is the model with both USB and RS232 interfaces. Make sure to check the correct model you are using.)  
-You can download the following driver: [_Virtual COM driver for Linux system 1.03_]([https://www.custom4u.it/pages/product/index.php?_gl=1*1naldf8*_gcl_au*MTgzNzYyMzU3NC4xNzUyNjgyNTg2*_ga*MjAxODU3MjcxOC4xNzUyNjgyNTg2*_ga_N07PHW80WY*czE3NTMzODY2MDMkbzYkZzAkdDE3NTMzODY2MDckajYwJGwwJGgw])
+You can download the following driver: [_Virtual COM driver for Linux system 1.03_](https://www.custom4u.it/pages/product/index.php?_gl=1*1naldf8*_gcl_au*MTgzNzYyMzU3NC4xNzUyNjgyNTg2*_ga*MjAxODU3MjcxOC4xNzUyNjgyNTg2*_ga_N07PHW80WY*czE3NTMzODY2MDMkbzYkZzAkdDE3NTMzODY2MDckajYwJGwwJGgw)
 
 ## System Tested
 
